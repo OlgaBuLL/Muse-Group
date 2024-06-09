@@ -1,7 +1,5 @@
+import SvgArrowRight from "/src/assets/images/icons/arrow-right.svg?react";
+
 export default function ArrowRight() {
-  return (
-    <svg className="arrow">
-      <use xlinkHref="/src/assets/images/icons/sprite.svg#arrow-right"></use>
-    </svg>
-  );
+  return <SvgArrowRight className="arrow" />;
 }

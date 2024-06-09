@@ -1,3 +1,8 @@
+import IconInstagram from "/src/assets/images/icons/icon-instagram.svg?react";
+import IconTelegram from "/src/assets/images/icons/icon-telegram.svg?react";
+import IconLinkedIn from "/src/assets/images/icons/icon-linkedin.svg?react";
+import IconFacebook from "/src/assets/images/icons/icon-facebook.svg?react";
+
 export default function Contacts() {
   return (
     <section className="contacts">
@@ -10,23 +15,17 @@ export default function Contacts() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <svg className="icon">
-                  <use xlinkHref="/src/assets/images/icons/sprite.svg#icon-instagram"></use>
-                </svg>
+                <IconInstagram className="icon" />
               </a>
 
-              <svg className="icon">
-                <use xlinkHref="/src/assets/images/icons/sprite.svg#icon-telegram"></use>
-              </svg>
+              <IconTelegram className="icon" />
 
               <a
                 href="https://www.linkedin.com/company/muse/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <svg className="icon">
-                  <use xlinkHref="/src/assets/images/icons/sprite.svg#icon-linked-in"></use>
-                </svg>
+                <IconLinkedIn className="icon" />
               </a>
 
               <a
@@ -34,17 +33,15 @@ export default function Contacts() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <svg className="icon">
-                  <use xlinkHref="/src/assets/images/icons/sprite.svg#icon-facebook"></use>
-                </svg>
+                <IconFacebook className="icon" />
               </a>
             </div>
             <p className="contacts__text body-standard">
-              You're not just a student - you're part of a vibrant community of
-              like-minded individuals united by a passion for frontend
-              development. Collaborate, innovate, and grow alongside fellow
-              learners and industry professionals as you embark on this exciting
-              journey together.
+              You&apos;re not just a student - you&apos;re part of a vibrant
+              community of like-minded individuals united by a passion for
+              frontend development. Collaborate, innovate, and grow alongside
+              fellow learners and industry professionals as you embark on this
+              exciting journey together.
             </p>
           </div>
         </div>
