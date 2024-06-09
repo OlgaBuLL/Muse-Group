@@ -22,8 +22,7 @@
 
 <br>
 
-[<img width="700" src="https://private-user-images.githubusercontent.com/108359930/337991045-e9d4d165-6b86-4c7d-a303-86094c61a112.png">](https://olgabull.github.io/Muse-Group/)
-
+[<img width="700" src="https://private-user-images.githubusercontent.com/108359930/337991916-9a89edd9-cebc-408e-a5a2-26854de4cc0b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc5NTE0NDUsIm5iZiI6MTcxNzk1MTE0NSwicGF0aCI6Ii8xMDgzNTk5MzAvMzM3OTkxOTE2LTlhODllZGQ5LWNlYmMtNDA4ZS1hNWEyLTI2ODU0ZGU0Y2MwYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwOVQxNjM5MDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mYzA4MWVhYzRmZDExOWI3YjE4ODU3YTMxOWE3MWY4NzE5ZWJmNjc1OGU3ZTBlMWRlMDM2MWQyNDMzOTVjNTEyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.G1shGqnmEQosiva0CuNuq2Ea4Ii_y1pvFnvW5ydgvLk">](https://olgabull.github.io/Muse-Group/)
 
 <br>
 
@@ -36,6 +35,7 @@
 🔹 `Grid`    
 🔹 `Flex`      
 🔹 `semantic and adaptive layout`      
+🔹 `Vite`
 
 <br>
 
