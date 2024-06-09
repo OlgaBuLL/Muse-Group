@@ -15,8 +15,10 @@
 
 <br>
 
->Click any of the images below to visit this website!
-![muse](https://github.com/OlgaBuLL/Muse-Group/assets/108359930/241eef7a-4e83-488a-afeb-e69548c7d019)
+<a href='https://olgabull.github.io/Muse-Group/'>Visit website</a>
+
+>Click on the image below to visit this website!
+
 
 <br>
 
