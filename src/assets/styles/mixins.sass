@@ -1,0 +1,39 @@
+@mixin r($width)
+    @media only screen and (max-width: ($width + "px"))
+        @content
+
+@mixin rmin($width)
+    @media only screen and (min-width: ($width + "px"))
+        @content
+
+@mixin lg
+    @include r(1919)
+        @content
+
+@mixin lg-up
+    @include rmin(1919.1)
+        @content
+
+@mixin md
+    @include r(1439)
+        @content
+
+@mixin md-up
+    @include rmin(1439.1)
+        @content
+
+@mixin sm
+    @include r(767)
+        @content
+
+@mixin sm-up
+    @include rmin(767.1)
+        @content
+
+@mixin xs
+    @include r(427)
+        @content
+
+@mixin xs-up
+    @include rmin(427.1)
+        @content

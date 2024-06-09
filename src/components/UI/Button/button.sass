@@ -1,0 +1,18 @@
+.button
+    display: flex
+    justify-content: center
+    align-items: center
+    gap: 8px
+    border: none
+    background: $color-cta
+    color: $color-white
+    border-radius: $border-radius
+    padding: 12px 24px
+    transition: $transition-4
+    cursor: pointer
+
+    &:hover
+        background: $color-cta-hover
+
+    @include sm
+        font-size: 14px

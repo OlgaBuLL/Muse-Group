@@ -1,0 +1,24 @@
+.contacts
+    &__container
+        display: grid
+        place-items: center
+
+    &__info
+        max-width: 592px
+        width: 100%
+        display: grid
+        gap: 24px
+
+    &__socials
+        display: flex
+        justify-content: center
+        gap: 60px
+
+        @include sm
+            gap: 40px
+
+    &__text
+        text-align: center
+
+        @include sm
+            font-size: 14px

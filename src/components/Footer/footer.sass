@@ -1,0 +1,20 @@
+.footer
+    display: flex
+    justify-content: center
+    padding: 32px 0
+
+    @include sm
+        padding: 24px 0
+
+    &__links
+        display: flex
+        justify-content: center
+        gap: 24px
+
+    &__link
+        white-space: nowrap
+        color: $color-cta
+        transition: $transition-4
+
+        &:hover
+            color: $color-cta-hover

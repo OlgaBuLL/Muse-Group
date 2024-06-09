@@ -1,0 +1,49 @@
+.card
+    display: grid
+    grid-template-rows: 1fr 1fr
+    border: 1px solid $color-divider
+    border-radius: $border-radius
+    overflow: hidden
+
+    &:nth-child(1)
+        .card__color
+            background: #FFC800
+    &:nth-child(2)
+        .card__color
+            background: #2E68C0
+    &:nth-child(3)
+        .card__color
+            background: #EA1542
+    &:nth-child(4)
+        .card__color
+            background: #1D4ED8
+
+    &__info
+        display: grid
+        gap: 13px
+        padding: 16px
+
+    &__title
+        margin-bottom: 8px
+
+    &__text
+        display: -webkit-box
+        -webkit-box-orient: vertical
+        -webkit-line-clamp: 3
+        overflow: hidden
+
+        @include sm
+            font-size: 16px
+
+    &__link
+        display: flex
+        align-items: center
+        gap: 8px
+        padding: 8px 0
+        font-family: $font-inter
+        font-size: 14px
+        color: $color-cta
+        transition: $transition-4
+
+        &:hover
+            color: $color-cta-hover

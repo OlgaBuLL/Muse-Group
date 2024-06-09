@@ -1,0 +1,61 @@
+
+:root
+    // h1-title 
+    --h1-title-font-size: 26px
+    --h1-title-line-height: 130%
+    --h1-title-font-weight: 600
+
+    @include sm
+        --h1-title-font-size: 22px
+
+    // h2-title 
+    --h2-title-font-size: 26px
+    --h2-title-line-height: 130%
+    --h2-title-font-weight: 600
+
+    @include sm
+        --h1-title-font-size: 22px
+
+    // h4-title 
+    --h4-title-font-size: 18px
+    --h4-title-line-height: 130%
+    --h4-title-font-weight: 600
+
+    // body-large
+    --body-large-font-size: 16px
+    --body-large-line-height: 150%
+
+    @include sm
+        --body-large-font-size: 14px
+
+    // body-standard
+    --body-standard-font-size: 14px
+    --body-standard-line-height: 150%
+
+    @include sm
+        --body-standard-font-size: 12px
+
+    // body-small
+    --body-small-font-size: 13px
+    --body-small-line-height: 150%
+
+    @include sm
+        --body-small-font-size: 11px
+
+.h1-title
+    @extend %h1-title
+
+.h2-title
+    @extend %h2-title
+
+.h4-title
+    @extend %h4-title
+
+.body-large
+    @extend %body-large
+
+.body-standard
+    @extend %body-standard
+
+.body-small
+    @extend %body-small

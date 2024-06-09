@@ -1,0 +1,21 @@
+.products
+    padding: 32px 0
+
+    @include sm
+        padding: 24px 0
+
+    &__title
+        margin-bottom: 32px
+        text-align: center
+
+        @include sm
+            margin-bottom: 16px
+
+    &__cards-container
+        display: grid
+        grid-template-columns: repeat(2, 314px)
+        gap: 12px
+
+        @include sm
+            grid-template-columns: 1fr
+            gap: 16px
