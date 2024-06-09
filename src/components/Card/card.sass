@@ -4,6 +4,7 @@
     border: 1px solid $color-divider
     border-radius: $border-radius
     overflow: hidden
+    transition: $transition-4
 
     &:nth-child(1)
         .card__color
@@ -17,6 +18,10 @@
     &:nth-child(4)
         .card__color
             background: #1D4ED8
+
+    &:hover
+        transform: translateY(-4px)
+        box-shadow: 0 4px 10px #6a67872a
 
     &__info
         display: grid
