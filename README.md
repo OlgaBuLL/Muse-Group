@@ -1,4 +1,4 @@
-<h1 align="center"> 🎵 Muse Grop </h1>
+<h1 align="center"> 🎵 Muse Group </h1>
 
 
 <br>
