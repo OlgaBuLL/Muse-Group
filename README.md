@@ -5,9 +5,9 @@
 
 ## Functionality:
 
-🎵 Responsive, adaptive layout
-🎵 Email field validation
-🎵 Click on form button or Enter to submit form
+🎵 Responsive, adaptive layout    
+🎵 Email field validation    
+🎵 Click on form button or Enter to submit form    
 
 <br>    
 
@@ -16,13 +16,11 @@
 <br>
 
 >Click any of the images below to visit this website!
+![muse](https://github.com/OlgaBuLL/Muse-Group/assets/108359930/241eef7a-4e83-488a-afeb-e69548c7d019)
 
 <br>
 
-[<img width="700" src="https://user-images.githubusercontent.com/108359930/268472226-acb5413d-8700-4950-ad8c-7613679749f2.png">](https://olgabull.github.io/Muse-Group/)
-
-[<img width="700" src="https://user-images.githubusercontent.com/108359930/268472229-2fae5838-be63-49f2-ad98-52aa6bbbdc13.png">](https://olgabull.github.io/Muse-Group/)
-
+[<img width="700" src="https://private-user-images.githubusercontent.com/108359930/337991045-e9d4d165-6b86-4c7d-a303-86094c61a112.png">](https://olgabull.github.io/Muse-Group/)
 
 
 <br>
@@ -30,8 +28,8 @@
 ## Stack:
 
 🔹 `React JS`     
-🔹 `SASS`
-🔹 `BEM-methodology`
+🔹 `SASS`    
+🔹 `BEM-methodology`    
 🔹 `Java Script`     
 🔹 `Grid`    
 🔹 `Flex`      
